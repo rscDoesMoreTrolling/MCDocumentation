@@ -10,9 +10,9 @@ Useful for Minecraft Addons
 - Entity Proprieties
 - Entity Components
 - Entity Behaviors
-- Entity Events (Soon)
+- Entity Events
 
 ## Informations:
 - Twitter: https://twitter.com/OSprintermax
-- Current Documentation Version: 0.0.9
+- Current Documentation Version: 0.1.0
 - Updated For Minecraft: 1.9.0.0

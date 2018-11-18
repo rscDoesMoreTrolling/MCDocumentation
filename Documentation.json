@@ -1,5 +1,5 @@
 {
-	"documentation_version": "0.0.9",
+	"documentation_version": "0.1.0",
 	"minecraft_version": "1.9.0.0",
 	"molang": {
 		"global": {
@@ -1629,9 +1629,68 @@
 			}
 		},
 		"entity_events": {
-			"": {
-				"description": "",
-				"example": {}
+			"from_egg": {
+				"description": ""
+			},
+			"from_explosion": {
+				"description": ""
+			},
+			"from_village": {
+				"description": ""
+			},
+			"in_desert": {
+				"description": ""
+			},
+			"minecraft:as_adult": {
+				"description": ""
+			},
+			"minecraft:as_baby": {
+				"description": ""
+			},
+			"minecraft:entity_born_wild": {
+				"description": ""
+			},
+			"minecraft:entity_spawned": {
+				"description": ""
+			},
+			"minecraft:entity_transformed": {
+				"description": ""
+			},
+			"minecraft:from_player": {
+				"description": ""
+			},
+			"minecraft:from_village": {
+				"description": ""
+			},
+			"minecraft:join_caravan": {
+				"description": ""
+			},
+			"minecraft:leave_caravan": {
+				"description": ""
+			},
+			"minecraft:on_deflate": {
+				"description": ""
+			},
+			"minecraft:on_instant_prime": {
+				"description": ""
+			},
+			"minecraft:on_puff": {
+				"description": ""
+			},
+			"minecraft:set_trap": {
+				"description": ""
+			},
+			"minecraft:spawn_from_village": {
+				"description": ""
+			},
+			"minecraft:spawn_midnight_cat": {
+				"description": ""
+			},
+			"minecraft:spring_trap": {
+				"description": ""
+			},
+			"wololo": {
+				"description": ""
 			}
 		}
 	}
