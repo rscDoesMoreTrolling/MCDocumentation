@@ -2,7 +2,7 @@
 Useful for Minecraft Addons
 
 ## Contains:
--### MoLang
+### MoLang
 - Global
 - Query
 - Variables
