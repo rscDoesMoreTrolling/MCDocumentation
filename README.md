@@ -15,5 +15,5 @@ Useful for Minecraft Addons
 
 ## Informations:
 - Twitter: https://twitter.com/OSprintermax
-- Current Documentation Version: 0.1.0
+- Current Documentation Version: 0.5.0
 - Updated For Minecraft: 1.9.0.0
