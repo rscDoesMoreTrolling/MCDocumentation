@@ -748,5 +748,32 @@
 				"type": ""
 			}
 		}
+	},
+	"behaviors": {
+		"entity_proprieties": {
+			"identifier": {
+				"description": "",
+				"example": {}
+			},
+			"runtime_identifier": {
+				"description": "",
+				"example": {}
+			},
+			"is_experimental": {
+				"description": "",
+				"type": "Bool"
+			}
+			"is_spawnable": {
+				"description": "",
+				"type": "Bool"
+			},
+			"is_summonable": {
+				"description": "",
+				"type": "Bool"
+			}
+		},
+		"entity_components": {},
+		"entity_behaviors": {},
+		"entity_events": {}
 	}
 }
