@@ -3,15 +3,14 @@ Useful for Minecraft Addons
 
 ## Contains:
 - MoLang
-1. Global
-2. Query
-3. Variables
+### Global
+### Query
+### Variables
 - Behaviors (Soon)
-1. Entity Components
-2. Entity Behaviors
+### Entity Components
+### Entity Behaviors
 
 ## Informations:
-- Made By Sprintermax
 - Twitter: https://twitter.com/OSprintermax
 - Current Documentation Version: 0.0.2
 - Updated For Minecraft: 1.9.0.0
