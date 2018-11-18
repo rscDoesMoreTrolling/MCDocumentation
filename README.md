@@ -2,13 +2,13 @@
 Useful for Minecraft Addons
 
 ## Contains:
-- MoLang
-### Global
-### Query
-### Variables
-- Behaviors (Soon)
-### Entity Components
-### Entity Behaviors
+-### MoLang
+- Global
+- Query
+- Variables
+### Behaviors (Soon)
+- Entity Components
+- Entity Behaviors
 
 ## Informations:
 - Twitter: https://twitter.com/OSprintermax
