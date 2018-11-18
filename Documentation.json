@@ -1443,7 +1443,7 @@
 				"description": "",
 				"example": {}
 			},
-			""minecraft:behavior.pickup_items": {
+			"minecraft:behavior.pickup_items": {
 				"description": "",
 				"example": {}
 			},
