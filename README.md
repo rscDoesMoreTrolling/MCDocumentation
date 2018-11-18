@@ -5,8 +5,8 @@ Useful for Minecraft Addons
 - MoLang
 - Query
 - Variables
-- Entity Components
-- Entity Behaviors
+- Entity Components (Soon)
+- Entity Behaviors (Soon)
 
 ## Informations:
 - Made By Sprintermax
