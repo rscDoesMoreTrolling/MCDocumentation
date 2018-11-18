@@ -3,10 +3,12 @@ Useful for Minecraft Addons
 
 ## Contains:
 - MoLang
-- Query
-- Variables
-- Entity Components (Soon)
-- Entity Behaviors (Soon)
+1. Global
+2. Query
+3. Variables
+- Behaviors (Soon)
+1. Entity Components
+2. Entity Behaviors
 
 ## Informations:
 - Made By Sprintermax
