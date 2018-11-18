@@ -8,7 +8,7 @@ Useful for Minecraft Addons
 - Query
 - Variables
 #### Behaviors:
-- Entity Proprieties
+- Entity Properties
 - Entity Components
 - Entity Behaviors
 - Entity Events
