@@ -7,7 +7,7 @@ Useful for Minecraft Addons
 2. Query
 3. Variables
 - Behaviors (Soon)
-1. Entity Components
+-- Entity Components
 2. Entity Behaviors
 
 ## Informations:
