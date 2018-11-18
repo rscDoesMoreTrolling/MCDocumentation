@@ -1559,7 +1559,7 @@
 				"description": "",
 				"example": {}
 			},
-			"minecraft:behavior.squid_odle": {
+			"minecraft:behavior.squid_idle": {
 				"description": "",
 				"example": {}
 			},
