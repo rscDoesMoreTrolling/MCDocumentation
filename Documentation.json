@@ -762,7 +762,7 @@
 			"is_experimental": {
 				"description": "",
 				"type": "Bool"
-			}
+			},
 			"is_spawnable": {
 				"description": "",
 				"type": "Bool"
