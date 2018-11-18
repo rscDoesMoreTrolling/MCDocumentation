@@ -793,6 +793,10 @@
 				"description": "",
 				"example": {}
 			},
+			"minecraft:balloon": {
+				"description": "",
+				"example": {}
+			},
 			"minecraft:balloonable": {
 				"description": "",
 				"example": {}
