@@ -3,7 +3,8 @@ Useful for Minecraft Addons
 
 ## Contains:
 #### MoLang:
-- Global
+- Global Variables
+- Math Functions
 - Query
 - Variables
 #### Behaviors:
