@@ -2,11 +2,11 @@
 Useful for Minecraft Addons
 
 ## Contains:
-### MoLang
+#### MoLang:
 - Global
 - Query
 - Variables
-### Behaviors (Soon)
+#### Behaviors: (Soon)
 - Entity Components
 - Entity Behaviors
 
