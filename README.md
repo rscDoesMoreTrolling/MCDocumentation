@@ -6,13 +6,13 @@ Useful for Minecraft Addons
 - Global
 - Query
 - Variables
-#### Behaviors: (Soon)
+#### Behaviors:
 - Entity Proprieties
 - Entity Components
 - Entity Behaviors
-- Entity Events
+- Entity Events (Soon)
 
 ## Informations:
 - Twitter: https://twitter.com/OSprintermax
-- Current Documentation Version: 0.0.2
+- Current Documentation Version: 0.0.9
 - Updated For Minecraft: 1.9.0.0
