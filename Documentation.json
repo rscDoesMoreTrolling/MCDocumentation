@@ -1,0 +1,752 @@
+{
+	"documentation_version": "0.0.2",
+	"minecraft_version": "1.9.0.0",
+	"molang": {
+		"global": {
+			"global.anim_pos": {
+				"description": "",
+				"type": ""
+			},
+			"global.anim_speed": {
+				"description": "",
+				"type": ""
+			},
+			"global.anim_time": {
+				"description": "",
+				"type": ""
+			},
+			"global.delta_time": {
+				"description": "",
+				"type": ""
+			},
+			"global.frame_alpha": {
+				"description": "",
+				"type": ""
+			},
+			"global.key_frame_lerp_time": {
+				"description": "",
+				"type": ""
+			},
+			"global.life_time": {
+				"description": "",
+				"type": ""
+			},
+			"global.model_scale": {
+				"description": "",
+				"type": ""
+			}
+		},
+		"query": {
+			"query.always_show_name": {
+				"description": "",
+				"type": ""
+			},
+			"query.can_climb": {
+				"description": "",
+				"type": ""
+			},
+			"query.can_damage_nearby_mobs": {
+				"description": "",
+				"type": ""
+			},
+			"query.can_fall_through_scaffolding": {
+				"description": "",
+				"type": ""
+			},
+			"query.can_fly": {
+				"description": "",
+				"type": ""
+			},
+			"query.can_power_jump": {
+				"description": "",
+				"type": ""
+			},
+			"query.can_rider_pick": {
+				"description": "",
+				"type": ""
+			},
+			"query.can_show_name": {
+				"description": "",
+				"type": ""
+			},
+			"query.can_swim": {
+				"description": "",
+				"type": ""
+			},
+			"query.can_walk": {
+				"description": "",
+				"type": ""
+			},
+			"query.ground_speed": {
+				"description": "",
+				"type": ""
+			},
+			"query.has_collision": {
+				"description": "",
+				"type": ""
+			},
+			"query.has_gravity": {
+				"description": "",
+				"type": ""
+			},
+			"query.has_rider": {
+				"description": "",
+				"type": ""
+			},
+			"query.heightmap": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_angry": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_baby": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_breathing": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_bribed": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_casting": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_charged": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_charging": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_chested": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_container_private": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_converting": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_critical": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_dancing": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_eating": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_elder": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_enchanted": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_fire_immune": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_gliding": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_idling": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_ignited": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_in_love": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_in_scaffolding": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_in_transition_sitting": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_in_water": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_in_water_or_rain": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_interested": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_invisible": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_laying_down": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_laying_egg": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_leashed": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_lingering": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_moving": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_on_ground": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_onfire": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_orphaned": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_over_scaffolding": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_powered": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_pregnant": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_resting": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_riding": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_rolling": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_saddled": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_scared": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_shaking": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_sheared": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_silent": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_sitting": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_sneaking": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_sneezing": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_sprinting": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_stackable": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_standing": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_swimming": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_tamed": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_tempted": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_transforming": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_trusting": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_using_item": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_wall_climbing": {
+				"description": "",
+				"type": ""
+			},
+			"query.is_wasd_controlled": {
+				"description": "",
+				"type": ""
+			},
+			"query.no_ai": {
+				"description": "",
+				"type": ""
+			},
+			"query.return_trident": {
+				"description": "",
+				"type": ""
+			},
+			"query.show_bottom": {
+				"description": "",
+				"type": ""
+			},
+			"query.spellcolor.b": {
+				"description": "",
+				"type": ""
+			},
+			"query.spellcolor.g": {
+				"description": "",
+				"type": ""
+			},
+			"query.spellcolor.r": {
+				"description": "",
+				"type": ""
+			},
+			"query.target_x_rotation": {
+				"description": "",
+				"type": ""
+			},
+			"query.target_y_rotation": {
+				"description": "",
+				"type": ""
+			},
+			"query.time_stamp": {
+				"description": "",
+				"type": ""
+			},
+			"query.variant": {
+				"description": "",
+				"type": ""
+			},
+			"query.walk_position": {
+				"description": "",
+				"type": ""
+			},
+			"query.walk_speed": {
+				"description": "",
+				"type": ""
+			},
+			"query.yaw_speed": {
+				"description": "",
+				"type": ""
+			}
+		},
+		"variable": {
+			"variable.agent.easein": {
+				"description": "",
+				"type": ""
+			},
+			"variable.agent.ishovering": {
+				"description": "",
+				"type": ""
+			},
+			"variable.agent.movespeedscalar": {
+				"description": "",
+				"type": ""
+			},
+			"variable.agent.swinganimationduration": {
+				"description": "",
+				"type": ""
+			},
+			"variable.agent.swinganimationtick": {
+				"description": "",
+				"type": ""
+			},
+			"variable.animationamount": {
+				"description": "",
+				"type": ""
+			},
+			"variable.animationamountprev": {
+				"description": "",
+				"type": ""
+			},
+			"variable.armor_stand.hurt_time": {
+				"description": "",
+				"type": ""
+			},
+			"variable.armor_stand.pose_index": {
+				"description": "",
+				"type": ""
+			},
+			"variable.attack_state": {
+				"description": "",
+				"type": ""
+			},
+			"variable.attack_time": {
+				"description": "",
+				"type": ""
+			},
+			"variable.attackanimationtick": {
+				"description": "",
+				"type": ""
+			},
+			"variable.charge_amount": {
+				"description": "",
+				"type": ""
+			},
+			"variable.color.a": {
+				"description": "",
+				"type": ""
+			},
+			"variable.color.b": {
+				"description": "",
+				"type": ""
+			},
+			"variable.color.g": {
+				"description": "",
+				"type": ""
+			},
+			"variable.color.r": {
+				"description": "",
+				"type": ""
+			},
+			"variable.crossbow_charge": {
+				"description": "",
+				"type": ""
+			},
+			"variable.damage_nearby_mobs": {
+				"description": "",
+				"type": ""
+			},
+			"variable.data": {
+				"description": "",
+				"type": ""
+			},
+			"variable.decortextureindex": {
+				"description": "",
+				"type": ""
+			},
+			"variable.direction.x": {
+				"description": "",
+				"type": ""
+			},
+			"variable.direction.y": {
+				"description": "",
+				"type": ""
+			},
+			"variable.direction.z": {
+				"description": "",
+				"type": ""
+			},
+			"variable.emitter_age": {
+				"description": "",
+				"type": ""
+			},
+			"variable.emitter_intensity": {
+				"description": "",
+				"type": ""
+			},
+			"variable.emitter_lifetime": {
+				"description": "",
+				"type": ""
+			},
+			"variable.emitter_radius": {
+				"description": "",
+				"type": ""
+			},
+			"variable.emitterrandom1": {
+				"description": "",
+				"type": ""
+			},
+			"variable.emitterrandom2": {
+				"description": "",
+				"type": ""
+			},
+			"variable.emitterrandom3": {
+				"description": "",
+				"type": ""
+			},
+			"variable.emitterrandom4": {
+				"description": "",
+				"type": ""
+			},
+			"variable.emittertexturecoord.u": {
+				"description": "",
+				"type": ""
+			},
+			"variable.emittertexturecoord.v": {
+				"description": "",
+				"type": ""
+			},
+			"variable.emittertexturesize.u": {
+				"description": "",
+				"type": ""
+			},
+			"variable.emittertexturesize.v": {
+				"description": "",
+				"type": ""
+			},
+			"variable.gliding_speed_value": {
+				"description": "",
+				"type": ""
+			},
+			"variable.has_target": {
+				"description": "",
+				"type": ""
+			},
+			"variable.hasrider": {
+				"description": "",
+				"type": ""
+			},
+			"variable.is_bow_and_arrow": {
+				"description": "",
+				"type": ""
+			},
+			"variable.is_brandishing_spear": {
+				"description": "",
+				"type": ""
+			},
+			"variable.is_holding_left": {
+				"description": "",
+				"type": ""
+			},
+			"variable.is_holding_right": {
+				"description": "",
+				"type": ""
+			},
+			"variable.is_sneaking": {
+				"description": "",
+				"type": ""
+			},
+			"variable.ischarging": {
+				"description": "",
+				"type": ""
+			},
+			"variable.isenchanted": {
+				"description": "",
+				"type": ""
+			},
+			"variable.isflashing": {
+				"description": "",
+				"type": ""
+			},
+			"variable.isgrazing": {
+				"description": "",
+				"type": ""
+			},
+			"variable.isholdingitem": {
+				"description": "",
+				"type": ""
+			},
+			"variable.isinwater": {
+				"description": "",
+				"type": ""
+			},
+			"variable.isonground": {
+				"description": "",
+				"type": ""
+			},
+			"variable.jump_rotation": {
+				"description": "",
+				"type": ""
+			},
+			"variable.left_arm_swim_amount": {
+				"description": "",
+				"type": ""
+			},
+			"variable.lie_amount": {
+				"description": "",
+				"type": ""
+			},
+			"variable.liedownamount": {
+				"description": "",
+				"type": ""
+			},
+			"variable.liedownamounttail": {
+				"description": "",
+				"type": ""
+			},
+			"variable.lieonplayer": {
+				"description": "",
+				"type": ""
+			},
+			"variable.offerflowertick": {
+				"description": "",
+				"type": ""
+			},
+			"variable.originx": {
+				"description": "",
+				"type": ""
+			},
+			"variable.originy": {
+				"description": "",
+				"type": ""
+			},
+			"variable.originz": {
+				"description": "",
+				"type": ""
+			},
+			"variable.particleage": {
+				"description": "",
+				"type": ""
+			},
+			"variable.particlecount": {
+				"description": "",
+				"type": ""
+			},
+			"variable.particlelifetime": {
+				"description": "",
+				"type": ""
+			},
+			"variable.particlerandom1": {
+				"description": "",
+				"type": ""
+			},
+			"variable.particlerandom2": {
+				"description": "",
+				"type": ""
+			},
+			"variable.particlerandom3": {
+				"description": "",
+				"type": ""
+			},
+			"variable.particlerandom4": {
+				"description": "",
+				"type": ""
+			},
+			"variable.puffedstate": {
+				"description": "",
+				"type": ""
+			},
+			"variable.right_arm_swim_amount": {
+				"description": "",
+				"type": ""
+			},
+			"variable.roll_counter": {
+				"description": "",
+				"type": ""
+			},
+			"variable.runtimeid": {
+				"description": "",
+				"type": ""
+			},
+			"variable.shulker.facingdirection": {
+				"description": "",
+				"type": ""
+			},
+			"variable.shulker.peekamount": {
+				"description": "",
+				"type": ""
+			},
+			"variable.sit_amount": {
+				"description": "",
+				"type": ""
+			},
+			"variable.sneeze_counter": {
+				"description": "",
+				"type": ""
+			},
+			"variable.splashrange": {
+				"description": "",
+				"type": ""
+			},
+			"variable.squid.zbodyrotation": {
+				"description": "",
+				"type": ""
+			},
+			"variable.state": {
+				"description": "",
+				"type": ""
+			},
+			"variable.swim_amount": {
+				"description": "",
+				"type": ""
+			},
+			"variable.tropicalfish.base": {
+				"description": "",
+				"type": ""
+			},
+			"variable.tropicalfish.pattern": {
+				"description": "",
+				"type": ""
+			},
+			"variable.unhappy_counter": {
+				"description": "",
+				"type": ""
+			},
+			"variable.use_item_interval_progress": {
+				"description": "",
+				"type": ""
+			},
+			"variable.use_item_startup_progress": {
+				"description": "",
+				"type": ""
+			},
+			"variable.variant": {
+				"description": "",
+				"type": ""
+			},
+			"variable.velocity_scalar": {
+				"description": "",
+				"type": ""
+			},
+			"variable.wing_flap": {
+				"description": "",
+				"type": ""
+			},
+			"variable.worldx": {
+				"description": "",
+				"type": ""
+			},
+			"variable.worldz": {
+				"description": "",
+				"type": ""
+			}
+		}
+	}
+}
