@@ -1,18 +1,18 @@
 [
 	{
 		"name": "global.anim_pos",
-		"description": "",
-		"info": ""
+		"description": "position of the animation",
+		"info": "Float"
 	},
 	{
 		"name": "global.anim_speed",
-		"description": "",
-		"info": ""
+		"description": "velocity of the animation",
+		"info": "Float"
 	},
 	{
 		"name": "global.anim_time",
-		"description": "",
-		"info": ""
+		"description": "elapsed time after the animation starts",
+		"info": "Float"
 	},
 	{
 		"name": "global.delta_time",
@@ -31,12 +31,12 @@
 	},
 	{
 		"name": "global.life_time",
-		"description": "",
-		"info": ""
+		"description": "life time of the particle or emitter",
+		"info": "Float"
 	},
 	{
 		"name": "global.model_scale",
-		"description": "",
-		"info": ""
+		"description": "scale value of the entity",
+		"info": "Float"
 	}
 ]

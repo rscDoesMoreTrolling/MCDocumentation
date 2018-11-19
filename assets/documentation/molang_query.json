@@ -2,436 +2,436 @@
 	{
 		"name": "query.always_show_name",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.can_climb",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.can_damage_nearby_mobs",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.can_fall_through_scaffolding",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.can_fly",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.can_power_jump",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.can_rider_pick",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.can_show_name",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.can_swim",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.can_walk",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.ground_speed",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.has_collision",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.has_gravity",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.has_rider",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.heightmap",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_angry",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_baby",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_breathing",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_bribed",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_casting",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_charged",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_charging",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_chested",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_container_private",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_converting",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_critical",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_dancing",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_eating",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_elder",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_enchanted",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_fire_immune",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_gliding",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_idling",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_ignited",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_in_love",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_in_scaffolding",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_in_transition_sitting",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_in_water",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_in_water_or_rain",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_interested",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_invisible",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_laying_down",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_laying_egg",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_leashed",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_lingering",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_moving",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_on_ground",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_onfire",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_orphaned",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_over_scaffolding",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_powered",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_pregnant",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_resting",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_riding",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_rolling",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_saddled",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_scared",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_shaking",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_sheared",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_silent",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_sitting",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_sneaking",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_sneezing",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_sprinting",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_stackable",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_standing",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_swimming",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_tamed",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_tempted",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_transforming",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_trusting",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_using_item",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_wall_climbing",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.is_wasd_controlled",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.no_ai",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.return_trident",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.show_bottom",
 		"description": "",
-		"info": ""
+		"info": "Bool"
 	},
 	{
 		"name": "query.spellcolor.b",
 		"description": "",
-		"info": ""
+		"info": "Float"
 	},
 	{
 		"name": "query.spellcolor.g",
 		"description": "",
-		"info": ""
+		"info": "Float"
 	},
 	{
 		"name": "query.spellcolor.r",
 		"description": "",
-		"info": ""
+		"info": "Float"
 	},
 	{
 		"name": "query.target_x_rotation",
 		"description": "",
-		"info": ""
+		"info": "Float"
 	},
 	{
 		"name": "query.target_y_rotation",
 		"description": "",
-		"info": ""
+		"info": "Float"
 	},
 	{
 		"name": "query.time_stamp",
 		"description": "",
-		"info": ""
+		"info": "Float"
 	},
 	{
 		"name": "query.variant",
 		"description": "",
-		"info": ""
+		"info": "Int"
 	},
 	{
 		"name": "query.walk_position",
 		"description": "",
-		"info": ""
+		"info": "Float"
 	},
 	{
 		"name": "query.walk_speed",
 		"description": "",
-		"info": ""
+		"info": "Float"
 	},
 	{
 		"name": "query.yaw_speed",
 		"description": "",
-		"info": ""
+		"info": "Float"
 	}
 ]
