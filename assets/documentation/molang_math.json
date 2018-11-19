@@ -12,7 +12,7 @@
 	{
 		"name": "Math.clamp",
 		"description": "clamp &lt;value&gt; to between &lt;min&gt; and &lt;max&gt; inclusive",
-		"info": "Math.clamp(&lt;value&gt;, &lt;min&gt;, &lt;max&gt;)"
+		"info": "<pre><code>Math.clamp(&lt;value&gt;, &lt;min&gt;, &lt;max&gt;)</code></pre>"
 	},
 	{
 		"name": "Math.cos",
