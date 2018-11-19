@@ -1,5 +1,5 @@
 $(document).ready(function () {
-	$.getJSON("https://raw.githubusercontent.com/sprintermax/MCDocumentation/master/assets/documentation/behavior_entity_behaviors.json", function (data) {
+	$.getJSON("assets/documentation/behavior_entity_behaviors.json", function (data) {
 		var behavior_data = '';
 		$.each(data, function (key, value) {
 			behavior_data += '<tr>';

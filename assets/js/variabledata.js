@@ -1,5 +1,5 @@
 $(document).ready(function () {
-	$.getJSON("https://raw.githubusercontent.com/sprintermax/MCDocumentation/master/assets/documentation/molang_variable.json", function (data) {
+	$.getJSON("assets/documentation/molang_variable.json", function (data) {
 		var variable_data = '';
 		$.each(data, function (key, value) {
 			variable_data += '<tr>';
