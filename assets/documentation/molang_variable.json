@@ -2,451 +2,451 @@
 	{
 		"name": "variable.agent.easein",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.agent.ishovering",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.agent.movespeedscalar",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.agent.swinganimationduration",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.agent.swinganimationtick",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.animationamount",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.animationamountprev",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.armor_stand.hurt_time",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.armor_stand.pose_index",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.attack_state",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.attack_time",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.attackanimationtick",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.charge_amount",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.color.a",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.color.b",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.color.g",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.color.r",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.crossbow_charge",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.damage_nearby_mobs",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
-		"name": "variable.data",
+		"name": "variable.info",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.decortextureindex",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.direction.x",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.direction.y",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.direction.z",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.emitter_age",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.emitter_intensity",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.emitter_lifetime",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.emitter_radius",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.emitterrandom1",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.emitterrandom2",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.emitterrandom3",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.emitterrandom4",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.emittertexturecoord.u",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.emittertexturecoord.v",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.emittertexturesize.u",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.emittertexturesize.v",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.gliding_speed_value",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.has_target",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.hasrider",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.is_bow_and_arrow",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.is_brandishing_spear",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.is_holding_left",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.is_holding_right",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.is_sneaking",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.ischarging",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.isenchanted",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.isflashing",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.isgrazing",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.isholdingitem",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.isinwater",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.isonground",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.jump_rotation",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.left_arm_swim_amount",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.lie_amount",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.liedownamount",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.liedownamounttail",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.lieonplayer",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.offerflowertick",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.originx",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.originy",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.originz",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.particleage",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.particlecount",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.particlelifetime",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.particlerandom1",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.particlerandom2",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.particlerandom3",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.particlerandom4",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.puffedstate",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.right_arm_swim_amount",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.roll_counter",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.runtimeid",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.shulker.facingdirection",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.shulker.peekamount",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.sit_amount",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.sneeze_counter",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.splashrange",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.squid.zbodyrotation",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.state",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.swim_amount",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.tropicalfish.base",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.tropicalfish.pattern",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.unhappy_counter",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.use_item_interval_progress",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.use_item_startup_progress",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.variant",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.velocity_scalar",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.wing_flap",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.worldx",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "variable.worldz",
 		"description": "",
-		"type": ""
+		"info": ""
 	}
 ]

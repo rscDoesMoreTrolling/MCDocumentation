@@ -1,517 +1,517 @@
 [
 	{
-		"name": "minecraft:behavior.avoid_mob_type",
+		"name": "minecraft:behavior.avoid_mob_info",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.beg",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.break_door",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.breed",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.charge_attack",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.circle_around_anchor",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.controlled_by_player",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.defend_village_target",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.dragonchargeplayer",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.dragondeath",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.dragonflaming",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.dragonholdingpattern",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.dragonlanding",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.dragonscanning",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.dragonstrafeplayer",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.dragontakeoff",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.drop_item_for",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.eat_block",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.enderman_leave_block",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.enderman_take_block",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.find_mount",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.find_underwater_treasure",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.flee_sun",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.float",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.float_wander",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.follow_caravan",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.follow_mob",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.follow_owner",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.follow_parent",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.go_home",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.guardian_attack",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.harvest_farm_block",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.hurt_by_target",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.lay_down",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.lay_egg",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.leap_at_target",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.look_at_entity",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.look_at_player",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.look_at_target",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.look_at_trading_player",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.make_love",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.melee_attack",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.mount_pathing",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.move_indoors",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.move_through_village",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.move_to_land",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.move_to_water",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.move_towards_restriction",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.move_towards_target",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.nearest_attackable_target",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.ocelot_sit_on_block",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.ocelotattack",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.offer_flower",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.open_door",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.owner_hurt_by_target",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.owner_hurt_target",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.panic",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.pet_sleep_with_owner",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.pickup_items",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.play",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.player_ride_tamed",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.raid_garden",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.random_breach",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.random_fly",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.random_look_around",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.random_sitting",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.random_stroll",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.random_swim",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.ranged_attack",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.receive_love",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.restrict_open_door",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.roll",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.run_around_like_crazy",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.scared",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.send_event",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.share_items",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.silverfish_merge_with_stone",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.silverfish_wake_up_friends",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.skeleton_horse_trap",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.slime_attack",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.slime_float",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.slime_keep_on_jumping",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.slime_random_direction",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.snacking",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.sneeze",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.squid_dive",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.squid_flee",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.squid_idle",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.squid_move_away_from_ground",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.squid_out_of_water",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.stay_while_sitting",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.stomp_attack",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.stomp_turtle_egg",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.summon_entity",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.swell",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.swim_idle",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.swim_wander",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.swoop_attack",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.take_flower",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.tempt",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.trade_with_player",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.wither_random_attack_pos_goal",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "minecraft:behavior.wither_target_highest_damage",
 		"description": "",
-		"example": {}
+		"info": {}
 	}
 ]

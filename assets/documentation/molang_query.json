@@ -2,436 +2,436 @@
 	{
 		"name": "query.always_show_name",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.can_climb",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.can_damage_nearby_mobs",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.can_fall_through_scaffolding",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.can_fly",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.can_power_jump",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.can_rider_pick",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.can_show_name",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.can_swim",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.can_walk",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.ground_speed",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.has_collision",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.has_gravity",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.has_rider",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.heightmap",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_angry",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_baby",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_breathing",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_bribed",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_casting",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_charged",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_charging",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_chested",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_container_private",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_converting",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_critical",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_dancing",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_eating",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_elder",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_enchanted",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_fire_immune",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_gliding",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_idling",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_ignited",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_in_love",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_in_scaffolding",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_in_transition_sitting",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_in_water",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_in_water_or_rain",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_interested",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_invisible",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_laying_down",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_laying_egg",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_leashed",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_lingering",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_moving",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_on_ground",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_onfire",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_orphaned",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_over_scaffolding",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_powered",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_pregnant",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_resting",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_riding",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_rolling",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_saddled",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_scared",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_shaking",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_sheared",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_silent",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_sitting",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_sneaking",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_sneezing",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_sprinting",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_stackable",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_standing",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_swimming",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_tamed",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_tempted",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_transforming",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_trusting",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_using_item",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_wall_climbing",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.is_wasd_controlled",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.no_ai",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.return_trident",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.show_bottom",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.spellcolor.b",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.spellcolor.g",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.spellcolor.r",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.target_x_rotation",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.target_y_rotation",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.time_stamp",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.variant",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.walk_position",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.walk_speed",
 		"description": "",
-		"type": ""
+		"info": ""
 	},
 	{
 		"name": "query.yaw_speed",
 		"description": "",
-		"type": ""
+		"info": ""
 	}
 ]

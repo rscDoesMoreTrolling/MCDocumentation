@@ -2,26 +2,26 @@
 	{
 		"name": "identifier",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "runtime_identifier",
 		"description": "",
-		"example": {}
+		"info": {}
 	},
 	{
 		"name": "is_experimental",
 		"description": "",
-		"type": "Bool"
+		"info": "Bool"
 	},
 	{
 		"name": "is_spawnable",
 		"description": "",
-		"type": "Bool"
+		"info": "Bool"
 	},
 	{
 		"name": "is_summonable",
 		"description": "",
-		"type": "Bool"
+		"info": "Bool"
 	}
 ]
