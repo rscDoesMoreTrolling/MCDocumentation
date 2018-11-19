@@ -2,91 +2,91 @@
 	{
 		"name": "Math.abs",
 		"description": "absolute value",
-		"info": "<pre><code>Math.abs(&lt;value&gt;)</code></pre>"
+		"info": "<pre id=\"codetab\"><code>Math.abs(&lt;value&gt;)</code></pre>"
 	},
 	{
 		"name": "Math.ceil",
 		"description": "round &lt;value&gt; up to nearest integral number",
-		"info": "<pre><code>Math.ceil(&lt;value&gt;)</code></pre>"
+		"info": "<pre id=\"codetab\"><code>Math.ceil(&lt;value&gt;)</code></pre>"
 	},
 	{
 		"name": "Math.clamp",
 		"description": "clamp &lt;value&gt; to between &lt;min&gt; and &lt;max&gt; inclusive",
-		"info": "<pre><code>Math.clamp(&lt;value&gt;, &lt;min&gt;, &lt;max&gt;)</code></pre>"
+		"info": "<pre id=\"codetab\"><code>Math.clamp(&lt;value&gt;, &lt;min&gt;, &lt;max&gt;)</code></pre>"
 	},
 	{
 		"name": "Math.cos",
 		"description": "cosine (in degrees)",
-		"info": "<pre><code>Math.cos(&lt;value&gt;)</code></pre>"
+		"info": "<pre id=\"codetab\"><code>Math.cos(&lt;value&gt;)</code></pre>"
 	},
 	{
 		"name": "Math.exp",
 		"description": "e^&lt;value&gt;",
-		"info": "<pre><code>Math.exp(&lt;value&gt;)</code></pre>"
+		"info": "<pre id=\"codetab\"><code>Math.exp(&lt;value&gt;)</code></pre>"
 	},
 	{
 		"name": "Math.floor",
 		"description": "round &lt;value&gt; down to nearest integral number",
-		"info": "<pre><code>Math.floor(&lt;value&gt;)</code></pre>"
+		"info": "<pre id=\"codetab\"><code>Math.floor(&lt;value&gt;)</code></pre>"
 	},
 	{
 		"name": "Math.lerp",
 		"description": "lerp from &lt;start&gt; to &lt;end&gt; via &lt;0_to_1&gt;",
-		"info": "<pre><code>Math.lerp(&lt;start&gt;, &lt;end&gt;, &lt;0_to_1&gt;)</code></pre>"
+		"info": "<pre id=\"codetab\"><code>Math.lerp(&lt;start&gt;, &lt;end&gt;, &lt;0_to_1&gt;)</code></pre>"
 	},
 	{
 		"name": "Math.lerprotate",
 		"description": "lerp the shortest direction around a circle from &lt;start&gt; degrees to &lt;end&gt; degrees via &lt;0_to_1&gt;",
-		"info": "<pre><code>Math.lerprotate(&lt;start&gt;, &lt;end&gt;, &lt;0_to_1&gt;)</code></pre>"
+		"info": "<pre id=\"codetab\"><code>Math.lerprotate(&lt;start&gt;, &lt;end&gt;, &lt;0_to_1&gt;)</code></pre>"
 	},
 	{
 		"name": "Math.ln",
 		"description": "natural log(&lt;value&gt;)",
-		"info": "<pre><code>Math.ln(&lt;value&gt;)</code></pre>"
+		"info": "<pre id=\"codetab\"><code>Math.ln(&lt;value&gt;)</code></pre>"
 	},
 	{
 		"name": "Math.max",
 		"description": "return highest value of &lt;A&gt; or &lt;B&gt;",
-		"info": "<pre><code>Math.max(&lt;A&gt;, &lt;B&gt;)</code></pre>"
+		"info": "<pre id=\"codetab\"><code>Math.max(&lt;A&gt;, &lt;B&gt;)</code></pre>"
 	},
 	{
 		"name": "Math.min",
 		"description": "return lowest value of &lt;A&gt; or &lt;B&gt;",
-		"info": "<pre><code>Math.min(&lt;A&gt;, &lt;B&gt;)</code></pre>"
+		"info": "<pre id=\"codetab\"><code>Math.min(&lt;A&gt;, &lt;B&gt;)</code></pre>"
 	},
 	{
 		"name": "Math.mod",
 		"description": "eturn the remainder of value / denominator",
-		"info": "<pre><code>Math.mod(&lt;value&gt;, &lt;denominator&gt;)</code></pre>"
+		"info": "<pre id=\"codetab\"><code>Math.mod(&lt;value&gt;, &lt;denominator&gt;)</code></pre>"
 	},
 	{
 		"name": "Math.pow",
 		"description": "&lt;base&gt; ^ &lt;exponent&gt;",
-		"info": "<pre><code>Math.pow(&lt;base&gt;, &lt;exponent&gt;)</code></pre>"
+		"info": "<pre id=\"codetab\"><code>Math.pow(&lt;base&gt;, &lt;exponent&gt;)</code></pre>"
 	},
 	{
 		"name": "Math.random",
 		"description": "random value between &lt;low&gt; and &lt;high&gt; inclusive",
-		"info": "<pre><code>Math.random(&lt;low&gt;, &lt;high&gt;)</code></pre>"
+		"info": "<pre id=\"codetab\"><code>Math.random(&lt;low&gt;, &lt;high&gt;)</code></pre>"
 	},
 	{
 		"name": "Math.round",
 		"description": "round &lt;value&gt; to nearest integral number",
-		"info": "<pre><code>Math.round(&lt;value&gt;)</code></pre>"
+		"info": "<pre id=\"codetab\"><code>Math.round(&lt;value&gt;)</code></pre>"
 	},
 	{
 		"name": "Math.sin",
 		"description": "sine (in degrees)",
-		"info": "<pre><code>Math.sin(&lt;value&gt;)</code></pre>"
+		"info": "<pre id=\"codetab\"><code>Math.sin(&lt;value&gt;)</code></pre>"
 	},
 	{
 		"name": "Math.sqrt",
 		"description": "square root of &lt;value&gt;",
-		"info": "<pre><code>Math.sqrt(&lt;value&gt;)</code></pre>"
+		"info": "<pre id=\"codetab\"><code>Math.sqrt(&lt;value&gt;)</code></pre>"
 	},
 	{
 		"name": "Math.trunc",
 		"description": "round &lt;value&gt; towards zero",
-		"info": "<pre><code>Math.trunc(&lt;value&gt;)</code></pre>"
+		"info": "<pre id=\"codetab\"><code>Math.trunc(&lt;value&gt;)</code></pre>"
 	}
 ]
