@@ -2,12 +2,14 @@
 	{
 		"name": "identifier",
 		"description": "",
-		"info": {}
+		"info": "<pre><code>\"identifier\": \"minecraft:pig\"</code></pre>"
 	},
 	{
 		"name": "runtime_identifier",
 		"description": "",
-		"info": {}
+		"info": {
+			"info": "<pre><code>\"runtime_identifier\": \"minecraft:shulker\"</code></pre>"
+		}
 	},
 	{
 		"name": "is_experimental",
