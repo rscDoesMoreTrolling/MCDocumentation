@@ -1,7 +1,6 @@
 # Minecraft Bedrock Engine Custom Documentation
 Useful for Minecraft Addons
-- Project Page:
-https://sprintermax.github.io/MCDocumentation/
+- Project Page: https://sprintermax.github.io/MCDocumentation/
 
 ## Contains:
 #### MoLang:
