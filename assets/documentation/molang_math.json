@@ -87,6 +87,6 @@
 	{
 		"name": "Math.trunc",
 		"description": "round &lt;value&gt; towards zero",
-		"info": "<pre><code>Math.trunc(&lt;value&gt;</code></pre>"
+		"info": "<pre><code>Math.trunc(&lt;value&gt;)</code></pre>"
 	}
 ]
