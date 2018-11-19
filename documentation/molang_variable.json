@@ -1,0 +1,452 @@
+[
+	{
+		"name": "variable.agent.easein",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.agent.ishovering",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.agent.movespeedscalar",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.agent.swinganimationduration",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.agent.swinganimationtick",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.animationamount",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.animationamountprev",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.armor_stand.hurt_time",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.armor_stand.pose_index",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.attack_state",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.attack_time",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.attackanimationtick",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.charge_amount",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.color.a",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.color.b",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.color.g",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.color.r",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.crossbow_charge",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.damage_nearby_mobs",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.data",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.decortextureindex",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.direction.x",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.direction.y",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.direction.z",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.emitter_age",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.emitter_intensity",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.emitter_lifetime",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.emitter_radius",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.emitterrandom1",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.emitterrandom2",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.emitterrandom3",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.emitterrandom4",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.emittertexturecoord.u",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.emittertexturecoord.v",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.emittertexturesize.u",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.emittertexturesize.v",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.gliding_speed_value",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.has_target",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.hasrider",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.is_bow_and_arrow",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.is_brandishing_spear",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.is_holding_left",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.is_holding_right",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.is_sneaking",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.ischarging",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.isenchanted",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.isflashing",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.isgrazing",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.isholdingitem",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.isinwater",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.isonground",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.jump_rotation",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.left_arm_swim_amount",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.lie_amount",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.liedownamount",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.liedownamounttail",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.lieonplayer",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.offerflowertick",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.originx",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.originy",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.originz",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.particleage",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.particlecount",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.particlelifetime",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.particlerandom1",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.particlerandom2",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.particlerandom3",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.particlerandom4",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.puffedstate",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.right_arm_swim_amount",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.roll_counter",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.runtimeid",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.shulker.facingdirection",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.shulker.peekamount",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.sit_amount",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.sneeze_counter",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.splashrange",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.squid.zbodyrotation",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.state",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.swim_amount",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.tropicalfish.base",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.tropicalfish.pattern",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.unhappy_counter",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.use_item_interval_progress",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.use_item_startup_progress",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.variant",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.velocity_scalar",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.wing_flap",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.worldx",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "variable.worldz",
+		"description": "",
+		"type": ""
+	}
+]

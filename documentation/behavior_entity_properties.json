@@ -1,0 +1,27 @@
+[
+	{
+		"name": "identifier",
+		"description": "",
+		"example": {}
+	},
+	{
+		"name": "runtime_identifier",
+		"description": "",
+		"example": {}
+	},
+	{
+		"name": "is_experimental",
+		"description": "",
+		"type": "Bool"
+	},
+	{
+		"name": "is_spawnable",
+		"description": "",
+		"type": "Bool"
+	},
+	{
+		"name": "is_summonable",
+		"description": "",
+		"type": "Bool"
+	}
+]

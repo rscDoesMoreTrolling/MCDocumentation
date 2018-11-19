@@ -1,0 +1,92 @@
+[
+	{
+		"name": "Math.abs",
+		"description": "absolute value",
+		"example": "Math.abs(<value>)"
+	},
+	{
+		"name": "Math.ceil",
+		"description": "round <value> up to nearest integral number",
+		"example": "Math.ceil(<value>)"
+	},
+	{
+		"name": "Math.clamp",
+		"description": "clamp <value> to between <min> and <max> inclusive",
+		"example": "Math.clamp(<value>, <min>, <max>)"
+	},
+	{
+		"name": "Math.cos",
+		"description": "cosine (in degrees)",
+		"example": "Math.cos(<value>)"
+	},
+	{
+		"name": "Math.exp",
+		"description": "e^<value>",
+		"example": "Math.exp(<value>)"
+	},
+	{
+		"name": "Math.floor",
+		"description": "round <value> down to nearest integral number",
+		"example": "Math.floor(<value>)"
+	},
+	{
+		"name": "Math.lerp",
+		"description": "lerp from <start> to <end> via <0_to_1>",
+		"example": "Math.lerp(<start>, <end>, <0_to_1>)"
+	},
+	{
+		"name": "Math.lerprotate",
+		"description": "lerp the shortest direction around a circle from <start> degrees to <end> degrees via <0_to_1>",
+		"example": "Math.lerprotate(<start>, <end>, <0_to_1>)"
+	},
+	{
+		"name": "Math.ln",
+		"description": "natural log(<value>)",
+		"example": "Math.ln(<value>)"
+	},
+	{
+		"name": "Math.max",
+		"description": "return highest value of <A> or <B>",
+		"example": "Math.max(<A>, <B>)"
+	},
+	{
+		"name": "Math.min",
+		"description": "return lowest value of <A> or <B>",
+		"example": "Math.min(<A>, <B>)"
+	},
+	{
+		"name": "Math.mod",
+		"description": "eturn the remainder of value / denominator",
+		"example": "Math.mod(<value>, <denominator>)"
+	},
+	{
+		"name": "Math.pow",
+		"description": "<base> ^ <exponent>",
+		"example": "Math.pow(<base>, <exponent>)"
+	},
+	{
+		"name": "Math.random",
+		"description": "random value between <low> and <high> inclusive",
+		"example": "Math.random(<low>, <high>)"
+	},
+	{
+		"name": "Math.round",
+		"description": "round <value> to nearest integral number",
+		"example": "Math.round(<value>)"
+	},
+	{
+		"name": "Math.sin",
+		"description": "sine (in degrees)",
+		"example": "Math.sin(<value>)"
+	},
+	{
+		"name": "Math.sqrt",
+		"description": "square root of <value>",
+		"example": "Math.sqrt(<value>)"
+	},
+	{
+		"name": "Math.trunc",
+		"description": "round <value> towards zero",
+		"example": "Math.trunc(<value>)"
+	}
+]

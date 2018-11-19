@@ -1,0 +1,42 @@
+[
+	{
+		"name": "global.anim_pos",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "global.anim_speed",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "global.anim_time",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "global.delta_time",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "global.frame_alpha",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "global.key_frame_lerp_time",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "global.life_time",
+		"description": "",
+		"type": ""
+	},
+	{
+		"name": "global.model_scale",
+		"description": "",
+		"type": ""
+	}
+]
