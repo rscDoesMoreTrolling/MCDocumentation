@@ -1,6 +1,6 @@
 @mojangles-font {
 	font-family: "mojangles";
-	src: ("assets/fonts/mojangles.ttf");
+	src: ("/assets/fonts/mojangles.ttf");
 }
 
 .mojangles-default {
@@ -44,7 +44,7 @@
 .panorama {
 	opacity: 0.8;
 	padding-bottom: 75%;
-	background-image: ("assets/img/panorama.png");
+	background-image: ("/assets/img/panorama.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 50% 0;
@@ -68,7 +68,7 @@
 	border: 2px solid;
 	margin: 4px 0px;
 	background-color: rgb(198, 198, 198);
-    border-image: ("assets/img/button_normal.png") 1;
+    border-image: ("/assets/img/button_normal.png") 1;
 }
 
 .squarebutton:hover {
@@ -76,7 +76,7 @@
 	border: 2px solid;
 	color: white;
 	background-color: rgb(67, 160, 28);
-    border-image: ("assets/img/button_hover.png") 1;
+    border-image: ("/assets/img/button_hover.png") 1;
 }
 
 .squarebutton:focus:hover {
@@ -84,14 +84,14 @@
 	border: 2px solid;
 	color: white;
 	background-color: rgb(67, 160, 28);
-    border-image: ("assets/img/button_pressed.png") 1;
+    border-image: ("/assets/img/button_pressed.png") 1;
 }
 
 .squarebutton:focus {
 	outline: 2px solid black;
 	border: 2px solid;
 	background-color: rgb(139, 139, 139);
-    border-image: ("assets/img/button_pressed_hover.png") 1;
+    border-image: ("/assets/img/button_pressed_hover.png") 1;
 }
 
 .border-gray {
