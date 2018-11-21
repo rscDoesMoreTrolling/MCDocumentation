@@ -1,105 +1,181 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
 	<head>
-		<title>Minecraft Documentation</title>
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<title>Minecraft Documentation</title>
 		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
-	<body class="is-preload">
-			<div id="wrapper">
-					<div id="main">
-						<div class="inner">
-								<section>
-									<header class="major">
-										<h2>Custom Documentation</h2>
-									</header>
-									<h2>Info:</h2>
-									<div class="features">
-										<article>
-											<img src="assets/img/gear.png" class="icon fa-molang"></img>
-											<div class="content">
-												<h3>MoLang:</h3>
-												<ul>
-													<li>Global Variables</li>
-													<li>Math Functions</li>
-													<li>Query</li>
-													<li>Variables</li>
-												</ul>
-											</div>
-										</article>
-										<article>
-											<img src="assets/img/tools.png" class="icon fa-behaviors"></img>
-											<div class="content">
-												<h3>Behaviors:</h3>
-												<ul>
-													<li>Entity Properties</li>
-													<li>Entity Components</li>
-													<li>Entity Behaviors</li>
-													<li>Entity Events</li>
-												</ul>
-											</div>
-										</article>
-										<article>
-											<img src="assets/img/info.png" class="icon fa-info"></img>
-											<div class="content">
-												<h3>Aditional Info:</h3>
-												<ul>
-													<li>From Minecraft Version: 1.9.0.0</li>
-													<li>Documentation Version: 0.5.0</li>
-												</ul>
-											</div>
-										</article>
-										<article>
-											<img src="assets/img/creator.png" class="icon fa-creator"></img>
-											<div class="content">
-												<h3>Creator:</h3>
-												<ul>
-													<li><a href="https://twitter.com/OSprintermax">Twitter: Sprintermax</a></li>
-													<li><a href="https://www.youtube.com/user/TheSprintermax">Youtube: Sprintermax</a></li>
-												</ul>
-											</div>
-										</article>
-									</div>
-								</section>
-						</div>
-					</div>
-
-					<div id="sidebar">
-						<div class="inner">
-								<nav id="menu">
-									<header class="major">
-										<h2>Navigation Menu</h2>
-									</header>
-									<ul>
-										<li><a href="index.html"><h4>Home Page</h4></a></li>
-										<li>
-											<span class="opener">MoLang Documentation</span>
-											<ul>
-												<li><a href="molang.html#molang_global">Global Variables</a></li>
-												<li><a href="molang.html#molang_math">Math Functions</a></li>
-												<li><a href="molang.html#molang_query">Query</a></li>
-												<li><a href="molang.html#molang_variables">Variables</a></li>
-											</ul>
-										</li>
-										<li>
-											<span class="opener">Behaviors Documentation</span>
-											<ul>
-												<li><a href="behaviors.html#entity_properties">Entity Properties</a></li>
-												<li><a href="behaviors.html#entity_components">Entity Components</a></li>
-												<li><a href="behaviors.html#entity_behaviors">Entity Behaviors</a></li>
-												<li><a href="behaviors.html#entity_events">Entity Events</a></li>
-											</ul>
-										</li>
-									</ul>
-								</nav>
-						</div>
-					</div>
+	<body class="nomargin noscroll">
+		<div class ="panorama">
+			<div class="top-header">
+				<a class="mojangles-gray">Minecraft Documentation</a>
 			</div>
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+			<div class="doctabs border-gray">
+				<a class="mojangles-white">Project Info</a>
+				<button class="squarebutton doctab mojangles-default" onclick="opendoc(event, 'About')" id="DefaultOpened" autofocus>About</button>
+				<a class="mojangles-white">MoLang Documentation</a>
+				<button class="squarebutton doctab mojangles-default" onclick="opendoc(event, 'Global')">Global</button>
+				<button class="squarebutton doctab mojangles-default" onclick="opendoc(event, 'Math')">Math</button>
+				<button class="squarebutton doctab mojangles-default" onclick="opendoc(event, 'Query')">Query</button>
+				<button class="squarebutton doctab mojangles-default" onclick="opendoc(event, 'Variable')">Variable</button>
+				<a class="mojangles-white">Entity Documentation</a>
+				<button class="squarebutton doctab mojangles-default" onclick="opendoc(event, 'Properties')">Properties</button>
+				<button class="squarebutton doctab mojangles-default" onclick="opendoc(event, 'Components')">Components</button>
+				<button class="squarebutton doctab mojangles-default" onclick="opendoc(event, 'Behaviors')">Behaviors</button>
+				<button class="squarebutton doctab mojangles-default" onclick="opendoc(event, 'Events')">Events</button>
+			</div>
+			<!---Info--->
+			<div id="About" class="documentation border-gray">
+				<br>
+				<a class="mojangles-white box-gray">About This Project</a>
+				<br><br>
+				<a class="mojangles-white">This project *tries* to be an improved version of the original minecraft documentation</a>
+				<br>
+				<a class="mojangles-white">- Development Status: Snapshot</a>
+				<br>
+				<a class="mojangles-white">- Current Project Version: 0.5.0</a>
+				<br>
+				<a class="mojangles-white">- From Minecraft Version: 1.9.0.0</a>
+				<br>
+				<a class="mojangles-white box-gray">Changelog</a>
+				<br><br>
+				<a class="mojangles-white">- Removed outdated JSON files</a>
+				<br>
+				<a class="mojangles-white">+ Minecraft site appearance</a>
+				<br>
+				<a class="mojangles-white">+ Some site BUGS :(</a>
+				<br>
+				<a class="mojangles-white box-gray">Creator</a>
+				<br><br>
+				<a class="mojangles-white">I'm 17 years old and I like minecraft :P</a>
+				<br>
+				<a class="mojangles-white">Check out my social media:</a>
+				<br><br>
+				<a class="mojangles-white">-Twitter: <a class="mojangles-white" href="https://twitter.com/OSprintermax">Sprintermax</a></a>
+				<br>
+				<a class="mojangles-white">-YouTube: <a class="mojangles-white" href="https://youtube.com/user/TheSprintermax">Sprintermax</a></a>
+				<br><br>
+				<a class="mojangles-white">Special Thanks:</a>
+				<br>
+				<a class="mojangles-white" href="https://twitter.com/solvedDev">SolvedDev</a>
+				<a class="mojangles-white">: For showing me how to use GitHub ;)</a>
+			</div>
+			<!---MoLang--->
+			<div id="Global" class="documentation border-gray">
+				<table>
+					<thead>
+						<tr>
+							<td class="mojangles-white">Name</td>
+							<td class="mojangles-white">Description</td>
+							<td class="mojangles-white">Type/Example</td>
+						</tr>
+					</thead>
+					<tbody id="global_table">
+					</tbody>
+				</table>
+			</div>
+			<div id="Math" class="documentation border-gray">
+				<table>
+					<thead>
+						<tr>
+							<td class="mojangles-white">Name</td>
+							<td class="mojangles-white">Description</td>
+							<td class="mojangles-white">Type/Example</td>
+						</tr>
+					</thead>
+					<tbody id="math_table">
+					</tbody>
+				</table>
+			</div>
+			<div id="Query" class="documentation border-gray">
+				<table>
+					<thead>
+						<tr>
+							<td class="mojangles-white">Name</td>
+							<td class="mojangles-white">Description</td>
+							<td class="mojangles-white">Type/Example</td>
+						</tr>
+					</thead>
+					<tbody id="query_table">
+					</tbody>
+				</table>
+			</div>
+			<div id="Variable" class="documentation border-gray">
+				<table>
+					<thead>
+						<tr>
+							<td class="mojangles-white">Name</td>
+							<td class="mojangles-white">Description</td>
+							<td class="mojangles-white">Type/Example</td>
+						</tr>
+					</thead>
+					<tbody id="variable_table">
+					</tbody>
+				</table>
+			</div>
+			<!---Entity--->
+			<div id="Properties" class="documentation border-gray">
+				<table>
+					<thead>
+						<tr>
+							<td class="mojangles-white">Name</td>
+							<td class="mojangles-white">Description</td>
+							<td class="mojangles-white">Type/Example</td>
+						</tr>
+					</thead>
+					<tbody id="propertie_data">
+					</tbody>
+				</table>
+			</div>
+			<div id="Components" class="documentation border-gray">
+				<table>
+					<thead>
+						<tr>
+							<td class="mojangles-white">Name</td>
+							<td class="mojangles-white">Description</td>
+							<td class="mojangles-white">Type/Example</td>
+						</tr>
+					</thead>
+					<tbody id="component_table">
+					</tbody>
+				</table>
+			</div>
+			<div id="Behaviors" class="documentation border-gray">
+				<table>
+					<thead>
+						<tr>
+							<td class="mojangles-white">Name</td>
+							<td class="mojangles-white">Description</td>
+							<td class="mojangles-white">Type/Example</td>
+						</tr>
+					</thead>
+					<tbody id="behavior_table">
+					</tbody>
+				</table>
+			</div>
+			<div id="Events" class="documentation border-gray">
+				<table>
+					<thead>
+						<tr>
+							<td class="mojangles-white">Name</td>
+							<td class="mojangles-white">Description</td>
+							<td class="mojangles-white">Type/Example</td>
+						</tr>
+					</thead>
+					<tbody id="event_table"></tbody>
+				</table>
+			</div>
+		</div>
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/sections.js"></script>
+		<script src="assets/js/panorama.js"></script>
+		<script src="assets/js/entity/propertiedata.js"></script>
+		<script src="assets/js/entity/componentdata.js"></script>
+		<script src="assets/js/entity/behaviordata.js"></script>
+		<script src="assets/js/entity/eventdata.js"></script>
+		<script src="assets/js/molang/globaldata.js"></script>
+		<script src="assets/js/molang/mathdata.js"></script>
+		<script src="assets/js/molang/querydata.js"></script>
+		<script src="assets/js/molang/variabledata.js"></script>
 	</body>
 </html>

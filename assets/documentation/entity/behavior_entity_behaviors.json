@@ -1,0 +1,723 @@
+[
+	{
+		"name": "",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.beg",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.break_door",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.breed",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.charge_attack",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.circle_around_anchor",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.controlled_by_player",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.defend_village_target",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.dragonchargeplayer",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.dragondeath",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.dragonflaming",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.dragonholdingpattern",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.dragonlanding",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.dragonscanning",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.dragonstrafeplayer",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.dragontakeoff",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.drop_item_for",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.eat_block",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.enderman_leave_block",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.enderman_take_block",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.find_mount",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.find_underwater_treasure",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.flee_sun",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.float",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.float_wander",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.follow_caravan",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.follow_mob",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.follow_owner",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.follow_parent",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.go_home",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.guardian_attack",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.harvest_farm_block",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.hurt_by_target",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.lay_down",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.lay_egg",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.leap_at_target",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.look_at_entity",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.look_at_player",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.look_at_target",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.look_at_trading_player",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.make_love",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.melee_attack",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.mount_pathing",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.move_indoors",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.move_through_village",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.move_to_land",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.move_to_water",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.move_towards_restriction",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.move_towards_target",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.nearest_attackable_target",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.ocelot_sit_on_block",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.ocelotattack",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.offer_flower",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.open_door",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.owner_hurt_by_target",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.owner_hurt_target",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.panic",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.pet_sleep_with_owner",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.pickup_items",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.play",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.player_ride_tamed",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.raid_garden",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.random_breach",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.random_fly",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.random_look_around",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.random_sitting",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.random_stroll",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.random_swim",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.ranged_attack",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.receive_love",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.restrict_open_door",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.roll",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.run_around_like_crazy",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.scared",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.send_event",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.share_items",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.silverfish_merge_with_stone",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.silverfish_wake_up_friends",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.skeleton_horse_trap",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.slime_attack",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.slime_float",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.slime_keep_on_jumping",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.slime_random_direction",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.snacking",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.sneeze",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.squid_dive",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.squid_flee",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.squid_idle",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.squid_move_away_from_ground",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.squid_out_of_water",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.stay_while_sitting",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.stomp_attack",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.stomp_turtle_egg",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.summon_entity",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.swell",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.swim_idle",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.swim_wander",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.swoop_attack",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.take_flower",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.tempt",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.trade_with_player",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.wither_random_attack_pos_goal",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:behavior.wither_target_highest_damage",
+		"description": "",
+		"info": [
+			""
+		]
+	}
+]

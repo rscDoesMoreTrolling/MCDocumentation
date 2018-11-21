@@ -1,0 +1,772 @@
+[
+	{
+		"name": "minecraft:addrider",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:ageable",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:angry",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:attack",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:attack_damage",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:balloon",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:balloonable",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:boostable",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:breathable",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:breedable",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:bribeable",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:burns_in_daylight",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:can_climb",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:can_fly",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:can_power_jump",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:collision_box",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:color",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:color2",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:damage_over_time",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:damage_sensor",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:environment_sensor",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:equipment",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:equippable",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:explode",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:fall_damage",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:fire_immune",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:flying_speed",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:follow_range",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:genetics",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:giveable",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:healable",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:health",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:home",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:horse.jump_strength",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:hurt_when_wet",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:input_ground_controlled",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:interact",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:inventory",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:is_baby",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:is_charged",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:is_chested",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:is_dyeable",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:is_ignited",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:is_saddled",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:is_shaking",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:is_sheared",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:is_stackable",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:is_tamed",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:item_controllable",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:item_hopper",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:jump.dynamic",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:jump.static",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:knockback_resistance",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:leashable",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:lookat",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:loot",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:mark_variant",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:movement",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:movement.amphibious",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:movement.basic",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:movement.fly",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:movement.generic",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:movement.glide",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:movement.jump",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:movement.skip",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:movement.sway",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:nameable",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:navigation.climb",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:navigation.float",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:navigation.fly",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:navigation.generic",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:navigation.walk",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:npc",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:on_friendly_anger",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:on_hurt",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:on_start_landing",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:on_start_takeoff",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:on_target_acquired",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:on_target_escape",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:on_wake_with_owner",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:peek",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:physics",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:player.exhaustion",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:player.experience",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:player.level",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:player.saturation",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:projectile",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:rail_movement",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:rail_sensor",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:rideable",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:scaffolding_climber",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:scale",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:scale_by_age",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:shareables",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:shooter",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:sittable",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:spawn_entity",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:spell_effects",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:strength",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:tameable",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:tamemount",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:target_nearby_sensor",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:teleport",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:tick_world",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:timer",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:trade_table",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:transformation",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:info_family",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:underwater_movement",
+		"description": "",
+		"info": [
+			""
+		]
+	},
+	{
+		"name": "minecraft:variant",
+		"description": "",
+		"info": [
+			""
+		]
+	}
+]

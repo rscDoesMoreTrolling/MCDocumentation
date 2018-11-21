@@ -1,0 +1,437 @@
+[
+	{
+		"name": "query.always_show_name",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.can_climb",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.can_damage_nearby_mobs",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.can_fall_through_scaffolding",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.can_fly",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.can_power_jump",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.can_rider_pick",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.can_show_name",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.can_swim",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.can_walk",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.ground_speed",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.has_collision",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.has_gravity",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.has_rider",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.heightmap",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_angry",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_baby",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_breathing",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_bribed",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_casting",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_charged",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_charging",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_chested",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_container_private",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_converting",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_critical",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_dancing",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_eating",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_elder",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_enchanted",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_fire_immune",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_gliding",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_idling",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_ignited",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_in_love",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_in_scaffolding",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_in_transition_sitting",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_in_water",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_in_water_or_rain",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_interested",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_invisible",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_laying_down",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_laying_egg",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_leashed",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_lingering",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_moving",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_on_ground",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_onfire",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_orphaned",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_over_scaffolding",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_powered",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_pregnant",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_resting",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_riding",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_rolling",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_saddled",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_scared",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_shaking",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_sheared",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_silent",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_sitting",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_sneaking",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_sneezing",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_sprinting",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_stackable",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_standing",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_swimming",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_tamed",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_tempted",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_transforming",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_trusting",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_using_item",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_wall_climbing",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.is_wasd_controlled",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.no_ai",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.return_trident",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.show_bottom",
+		"description": "",
+		"info": "Bool"
+	},
+	{
+		"name": "query.spellcolor.b",
+		"description": "",
+		"info": "Float"
+	},
+	{
+		"name": "query.spellcolor.g",
+		"description": "",
+		"info": "Float"
+	},
+	{
+		"name": "query.spellcolor.r",
+		"description": "",
+		"info": "Float"
+	},
+	{
+		"name": "query.target_x_rotation",
+		"description": "",
+		"info": "Float"
+	},
+	{
+		"name": "query.target_y_rotation",
+		"description": "",
+		"info": "Float"
+	},
+	{
+		"name": "query.time_stamp",
+		"description": "",
+		"info": "Float"
+	},
+	{
+		"name": "query.variant",
+		"description": "",
+		"info": "Int"
+	},
+	{
+		"name": "query.walk_position",
+		"description": "",
+		"info": "Float"
+	},
+	{
+		"name": "query.walk_speed",
+		"description": "",
+		"info": "Float"
+	},
+	{
+		"name": "query.yaw_speed",
+		"description": "",
+		"info": "Float"
+	}
+]

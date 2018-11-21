@@ -1,0 +1,92 @@
+[
+	{
+		"name": "Math.abs",
+		"description": "absolute value",
+		"info": "Math.abs(&lt;value&gt;)"
+	},
+	{
+		"name": "Math.ceil",
+		"description": "round &lt;value&gt; up to nearest integral number",
+		"info": "Math.ceil(&lt;value&gt;)"
+	},
+	{
+		"name": "Math.clamp",
+		"description": "clamp &lt;value&gt; to between &lt;min&gt; and &lt;max&gt; inclusive",
+		"info": "Math.clamp(&lt;value&gt;, &lt;min&gt;, &lt;max&gt;)"
+	},
+	{
+		"name": "Math.cos",
+		"description": "cosine (in degrees)",
+		"info": "Math.cos(&lt;value&gt;)"
+	},
+	{
+		"name": "Math.exp",
+		"description": "e^&lt;value&gt;",
+		"info": "Math.exp(&lt;value&gt;)"
+	},
+	{
+		"name": "Math.floor",
+		"description": "round &lt;value&gt; down to nearest integral number",
+		"info": "Math.floor(&lt;value&gt;)"
+	},
+	{
+		"name": "Math.lerp",
+		"description": "lerp from &lt;start&gt; to &lt;end&gt; via &lt;0_to_1&gt;",
+		"info": "Math.lerp(&lt;start&gt;, &lt;end&gt;, &lt;0_to_1&gt;)"
+	},
+	{
+		"name": "Math.lerprotate",
+		"description": "lerp the shortest direction around a circle from &lt;start&gt; degrees to &lt;end&gt; degrees via &lt;0_to_1&gt;",
+		"info": "Math.lerprotate(&lt;start&gt;, &lt;end&gt;, &lt;0_to_1&gt;)"
+	},
+	{
+		"name": "Math.ln",
+		"description": "natural log(&lt;value&gt;)",
+		"info": "Math.ln(&lt;value&gt;)"
+	},
+	{
+		"name": "Math.max",
+		"description": "return highest value of &lt;A&gt; or &lt;B&gt;",
+		"info": "Math.max(&lt;A&gt;, &lt;B&gt;)"
+	},
+	{
+		"name": "Math.min",
+		"description": "return lowest value of &lt;A&gt; or &lt;B&gt;",
+		"info": "Math.min(&lt;A&gt;, &lt;B&gt;)"
+	},
+	{
+		"name": "Math.mod",
+		"description": "eturn the remainder of value / denominator",
+		"info": "Math.mod(&lt;value&gt;, &lt;denominator&gt;)"
+	},
+	{
+		"name": "Math.pow",
+		"description": "&lt;base&gt; ^ &lt;exponent&gt;",
+		"info": "Math.pow(&lt;base&gt;, &lt;exponent&gt;)"
+	},
+	{
+		"name": "Math.random",
+		"description": "random value between &lt;low&gt; and &lt;high&gt; inclusive",
+		"info": "Math.random(&lt;low&gt;, &lt;high&gt;)"
+	},
+	{
+		"name": "Math.round",
+		"description": "round &lt;value&gt; to nearest integral number",
+		"info": "Math.round(&lt;value&gt;)"
+	},
+	{
+		"name": "Math.sin",
+		"description": "sine (in degrees)",
+		"info": "Math.sin(&lt;value&gt;)"
+	},
+	{
+		"name": "Math.sqrt",
+		"description": "square root of &lt;value&gt;",
+		"info": "Math.sqrt(&lt;value&gt;)"
+	},
+	{
+		"name": "Math.trunc",
+		"description": "round &lt;value&gt; towards zero",
+		"info": "Math.trunc(&lt;value&gt;)"
+	}
+]
