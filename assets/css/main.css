@@ -79,7 +79,7 @@
     border-image: "assets/img/button_hover.png" 1;
 }
 
-.squarebutton:focus:hover {
+.squarebutton.active:hover {
 	outline: 2px solid white;
 	border: 2px solid;
 	color: white;
@@ -87,7 +87,7 @@
     border-image: "assets/img/button_pressed.png" 1;
 }
 
-.squarebutton:focus {
+.squarebutton.active {
 	outline: 2px solid black;
 	border: 2px solid;
 	background-color: rgb(139, 139, 139);
