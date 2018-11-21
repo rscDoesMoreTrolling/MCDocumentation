@@ -21,6 +21,14 @@
 	color: white;
 }
 
+.unselectable {
+	-webkit-user-select: none;
+}
+
+.selectable {
+	-webkit-user-select: text;
+}
+
 .nomargin {
 	margin: 0px 0px;
 }
