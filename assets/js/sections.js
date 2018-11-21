@@ -11,7 +11,7 @@ function opendoc(evt, docName) {
 	}
 	doctab = document.getElementsByClassName("doctab");
 	for (i = 0; i < doctab.length; i++) {
-		doctab[i].className = doctab[i].className.replace("active", "");
+		doctab[i].className = doctab[i].className.replace(" active", "");
 	}
 	document.getElementById(docName).style.display = "block";
 	evt.currentTarget.className += " active";
