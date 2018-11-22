@@ -1,5 +1,6 @@
 document.getElementById("DefaultOpen").click();
 function opendoc(evt, docName) {
+	var clicksound = new Audio('../../assets/sounds/minecraftclick.mp3');
 	var i, documentation, doctab;
 	documentation = document.getElementsByClassName("documentation");
 	for (i = 0; i < documentation.length; i++) {
@@ -11,4 +12,6 @@ function opendoc(evt, docName) {
 	}
 	document.getElementById(docName).style.display = "block";
 	evt.currentTarget.className += " active";
+	clicksound.currentTime=0;
+	clicksound.play();
 }
