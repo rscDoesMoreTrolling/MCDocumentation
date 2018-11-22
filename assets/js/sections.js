@@ -1,6 +1,6 @@
 document.getElementById("DefaultOpen").click();
 function opendoc(evt, docName) {
-	var minecraftclick = new Audio("../../assets/sounds/minecraftclick.mp3");
+	var minecraftclick = new Audio("../../assets/sounds/minecraftclick.wav");
 	var i, documentation, doctab;
 	documentation = document.getElementsByClassName("documentation");
 	for (i = 0; i < documentation.length; i++) {
