@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<title>Minecraft Documentation</title>
+		<link rel="icon" href="Favicon.ico">
 		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
 	<body class="nomargin noscroll unselectable">
@@ -24,154 +25,25 @@
 				<button class="squarebutton doctab mojangles-gray" onclick="opendoc(event, 'Behaviors')">Behaviors</button>
 				<button class="squarebutton doctab mojangles-gray" onclick="opendoc(event, 'Events')">Events</button>
 			</div>
-			<!---Info--->
-			<div id="About" class="documentation border-gray">
-				<br>
-				<a class="mojangles-white box-gray">About This Project</a>
-				<br><br>
-				<a class="mojangles-white">This project *tries* to be an improved version of the original minecraft documentation</a>
-				<br>
-				<a class="mojangles-white">- Development Status: Snapshot</a>
-				<br>
-				<a class="mojangles-white">- Current Project Version: 0.5.0</a>
-				<br>
-				<a class="mojangles-white">- From Minecraft Version: 1.9.0.0</a>
-				<br>
-				<a class="mojangles-white box-gray">Changelog</a>
-				<br><br>
-				<a class="mojangles-white">- Removed outdated JSON files</a>
-				<br>
-				<a class="mojangles-white">+ Minecraft site appearance</a>
-				<br>
-				<a class="mojangles-white">+ Some site BUGS :(</a>
-				<br>
-				<a class="mojangles-white box-gray">Creator</a>
-				<br><br>
-				<a class="mojangles-white">I'm 17 years old and I like minecraft :P</a>
-				<br>
-				<a class="mojangles-white">Check out my social media:</a>
-				<br><br>
-				<a class="mojangles-white">-Twitter: <a class="mojangles-white" href="https://twitter.com/OSprintermax">Sprintermax</a></a>
-				<br>
-				<a class="mojangles-white">-YouTube: <a class="mojangles-white" href="https://youtube.com/user/TheSprintermax">Sprintermax</a></a>
-				<br><br>
-				<a class="mojangles-white">Special Thanks:</a>
-				<br>
-				<a class="mojangles-white" href="https://twitter.com/solvedDev">SolvedDev</a>
-				<a class="mojangles-white">: For showing me how to use GitHub ;)</a>
-			</div>
-			<!---MoLang--->
-			<div id="Global" class="documentation border-gray">
-				<table>
-					<thead>
-						<tr>
-							<td class="mojangles-white">Name</td>
-							<td class="mojangles-white">Description</td>
-							<td class="mojangles-white">Type/Example</td>
-						</tr>
-					</thead>
-					<tbody id="global_table">
-					</tbody>
-				</table>
-			</div>
-			<div id="Math" class="documentation border-gray">
-				<table>
-					<thead>
-						<tr>
-							<td class="mojangles-white">Name</td>
-							<td class="mojangles-white">Description</td>
-							<td class="mojangles-white">Type/Example</td>
-						</tr>
-					</thead>
-					<tbody id="math_table">
-					</tbody>
-				</table>
-			</div>
-			<div id="Query" class="documentation border-gray">
-				<table>
-					<thead>
-						<tr>
-							<td class="mojangles-white">Name</td>
-							<td class="mojangles-white">Description</td>
-							<td class="mojangles-white">Type/Example</td>
-						</tr>
-					</thead>
-					<tbody id="query_table">
-					</tbody>
-				</table>
-			</div>
-			<div id="Variable" class="documentation border-gray">
-				<table>
-					<thead>
-						<tr>
-							<td class="mojangles-white">Name</td>
-							<td class="mojangles-white">Description</td>
-							<td class="mojangles-white">Type/Example</td>
-						</tr>
-					</thead>
-					<tbody id="variable_table">
-					</tbody>
-				</table>
-			</div>
-			<!---Entity--->
-			<div id="Properties" class="documentation border-gray">
-				<table>
-					<thead>
-						<tr>
-							<td class="mojangles-white">Name</td>
-							<td class="mojangles-white">Description</td>
-							<td class="mojangles-white">Type/Example</td>
-						</tr>
-					</thead>
-					<tbody id="propertie_table">
-					</tbody>
-				</table>
-			</div>
-			<div id="Components" class="documentation border-gray">
-				<table>
-					<thead>
-						<tr>
-							<td class="mojangles-white">Name</td>
-							<td class="mojangles-white">Description</td>
-							<td class="mojangles-white">Type/Example</td>
-						</tr>
-					</thead>
-					<tbody id="component_table">
-					</tbody>
-				</table>
-			</div>
-			<div id="Behaviors" class="documentation border-gray">
-				<table>
-					<thead>
-						<tr>
-							<td class="mojangles-white">Name</td>
-							<td class="mojangles-white">Description</td>
-							<td class="mojangles-white">Type/Example</td>
-						</tr>
-					</thead>
-					<tbody id="behavior_table">
-					</tbody>
-				</table>
-			</div>
-			<div id="Events" class="documentation border-gray">
-				<table>
-					<thead>
-						<tr>
-							<td class="mojangles-white">Name</td>
-							<td class="mojangles-white">Description</td>
-							<td class="mojangles-white">Type/Example</td>
-						</tr>
-					</thead>
-					<tbody id="event_table"></tbody>
-				</table>
-			</div>
+			<!--Info-->
+			<div id="About" class="documentation border-gray"></div>
+			<!--MoLang-->
+			<div id="Global" class="documentation border-gray"></div>
+			<div id="Math" class="documentation border-gray"></div>
+			<div id="Query" class="documentation border-gray"></div>
+			<div id="Variable" class="documentation border-gray"></div>
+			<!--Entity-->
+			<div id="Properties" class="documentation border-gray"></div>
+			<div id="Components" class="documentation border-gray"></div>
+			<div id="Behaviors" class="documentation border-gray"></div>
+			<div id="Events" class="documentation border-gray"></div>
 		</div>
 		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/loaddata.js"></script>
 		<script src="assets/js/sections.js"></script>
-		<script src="assets/js/documentation/entity/propertiedata.js"></script>
-		<script src="assets/js/documentation/entity/componentdata.js"></script>
+		<!-- <script src="assets/js/documentation/entity/componentdata.js"></script>
 		<script src="assets/js/documentation/entity/behaviordata.js"></script>
-		<script src="assets/js/documentation/entity/eventdata.js"></script>
+		<script src="assets/js/documentation/entity/eventdata.js"></script> -->
 		<script src="assets/js/documentation/molang/globaldata.js"></script>
 		<script src="assets/js/documentation/molang/mathdata.js"></script>
 		<script src="assets/js/documentation/molang/querydata.js"></script>
