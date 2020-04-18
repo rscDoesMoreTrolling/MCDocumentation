@@ -1,0 +1,21 @@
+{
+    "title": "minecraft:strength",
+    "description": "Defines the entity's strength to carry items.",
+    "structure": {
+        "value": {
+            "description": "The initial value of the strength",
+            "default": "-",
+            "type": "Integer"
+        },
+        "max": {
+            "description": "The maximum strength of this entity",
+            "default": "-",
+            "type": "Integer"
+        },
+        "min": {
+            "description": "The minimum strength of this entity",
+            "default": "-",
+            "type": "Integer"
+        }
+    }
+}

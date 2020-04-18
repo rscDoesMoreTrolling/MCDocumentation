@@ -1,0 +1,24 @@
+{
+    "title": "minecraft:addrider",
+    "description": "Adds a rider to the entity. Requires minecraft:rideable.",
+    "structure": {
+        "entity_type": {
+            "description": "List of effects to add to this entity after adding this component",
+            "default": "-",
+            "type": "String",
+            "minecraft_type": "entity_identifier"
+        }
+    },
+    "known_problems": [
+        {
+            "category": "info",
+            "description": "Entities being ridden cannot use minecraft:spawn_entity.",
+            "version": "1.6.0+"
+        }
+    ],
+    "example": {
+        "minecraft:addrider": {
+            "entity_type": "minecraft:skeleton"
+        }
+    }
+}

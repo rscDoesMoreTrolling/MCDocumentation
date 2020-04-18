@@ -1,0 +1,38 @@
+[
+    {
+        "name": "minecraft:aaa",
+        "link": "/components/aaa.json"
+    },
+	{
+        "name": "minecraft:attack",
+        "link": "/components/attack.json"
+    },
+    {
+        "name": "minecraft:health",
+        "link": "/components/health.json"
+    },
+    {
+        "name": "minecraft:peek",
+        "link": "/components/peek.json"
+    },
+    {
+        "name": "minecraft:spell_effects",
+        "link": "/components/spell_effects.json"
+    },
+    {
+        "name": "minecraft:addrider",
+        "link": "/components/addrider.json"
+    },
+    {
+        "name": "minecraft:rideable",
+        "link": "/components/rideable.json"
+    },
+    {
+        "name": "minecraft:spawn_entity",
+        "link": "/components/spawn_entity.json"
+    },
+    {
+        "name": "minecraft:strength",
+        "link": "/components/strength.json"
+    }
+]

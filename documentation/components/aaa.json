@@ -1,0 +1,22 @@
+{
+    "title": "minecraft:aaa",
+    "description": "Defines an entity's melee attack and any additional effects on it.",
+    "structure": {
+        "damage": {
+            "description": "Range of the random amount of damage the melee attack deals. A negative value can heal the entity instead of hurting it",
+            "default": "-",
+            "type": ["Integer", "Array"]
+        },
+        "effect_name": {
+            "description": "Identifier of the status ailment to apply to an entity attacked by this entity's melee attack",
+            "default": "-",
+            "type": "String",
+            "minecraft_type": "effect_identifier"
+        },
+        "effect_duration": {
+            "description": "Duration in seconds of the status ailment applied to the damaged entity",
+            "default": 0.0,
+            "type": "Decimal"
+        }
+    }
+}

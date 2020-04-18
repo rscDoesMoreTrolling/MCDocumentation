@@ -1,0 +1,63 @@
+{
+    "title": "minecraft:spell_effects",
+    "description": "Defines what mob effects to add and remove to the entity when adding this component.",
+    "structure": {
+        "min_wait_time": {
+            "description": "Minimum amount of time to randomly wait in seconds before another entity is spawned",
+            "default": 300,
+            "type": "Integer"
+        },
+        "max_wait_time": {
+            "description": "Maximum amount of time to randomly wait in seconds before another entity is spawned",
+            "default": 600,
+            "type": "Integer"
+        },
+        "spawn_sound": {
+            "description": "Identifier of the sound effect to play when the entity is spawned",
+            "default": "plop",
+            "type": "String",
+            "minecraft_type": "sound_identifier"
+        },
+        "spawn_item": {
+            "description": "Item identifier of the item to spawn",
+            "default": "egg",
+            "type": "String",
+            "minecraft_type": "item_identifier"
+        },
+        "spawn_entity": {
+            "description": "Identifier of the entity to spawn, leave empty to spawn the item defined above instead",
+            "type": "String",
+            "minecraft_type": "entity_identifier"
+        },
+        "spawn_method": {
+            "description": "Method to use to spawn the entity",
+            "default": "born",
+            "type": "String"
+        },
+        "spawn_event": {
+            "description": "Event to call when the entity is spawned",
+            "default": "minecraft:entity_born",
+            "type": "String",
+            "minecraft_type": "entity_event"
+        }
+    },
+    "known_problems": [
+        {
+            "category": "info",
+            "description": "Entities being ridden cannot use minecraft:spawn_entity.",
+            "version": "1.6.0+"
+        },
+        {
+            "category": "info",
+            "description": "You cannot spawn an entity and an item at the same time."
+        }
+    ],
+    "example": {
+        "minecraft:spawn_entity": {
+            "min_wait_time": 300,
+            "max_wait_time": 600,
+            "spawn_sound": "plop",
+            "spawn_item": "egg"
+        }
+    }
+}
